@@ -27,7 +27,7 @@ darkmode.onclick =()=>{
 const sr =ScrollReveal({
 	origin:'top',
 	distance: '40px',
-	duration: 2000,
+	duration: 200,
 	reset: true
 })
 
