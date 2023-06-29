@@ -186,6 +186,7 @@ header{
 		box-shadow: 0 4px 4px rgb(0 0 0/10%);
 		transition: 0.2s ease;
 	}
+}
 .navbar.active{
 	top: 100%;
 }
@@ -233,4 +234,4 @@ header{
 		padding: 4rem;
 	}
 }
-}
+
