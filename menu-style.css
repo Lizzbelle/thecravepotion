@@ -87,7 +87,7 @@ header{
 
  .heading{
 	text-align: center;
-    margin-top: 150px;
+   	margin-top: 160px;
  }
  .heading span{
 	color: var(--main-color);
