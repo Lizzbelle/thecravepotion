@@ -10,6 +10,7 @@ window.onscroll=()=>{
 }
 
 
+
 let darkmode = document.querySelector('#darkmode');
 
 darkmode.onclick =()=>{
@@ -21,6 +22,7 @@ darkmode.onclick =()=>{
 		darkmode.classList.replace('bx-sun','bx-moon');
 		document.body.classList.remove('active');
 	}
+	
 }
 
 //scroll REveal
